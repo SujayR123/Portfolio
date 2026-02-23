@@ -8,4 +8,4 @@ permalink: /js/hw-summation
 author: sujay
 --- 
 
-[sujayr123.github.io/Portfolio/dih](sujayr123.github.io/Portfolio/js/dih)
+[sujayr123.github.io/Portfolio/iteration-hw](sujayr123.github.io/Portfolio/js/iteration-homework)
