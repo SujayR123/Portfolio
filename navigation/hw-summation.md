@@ -3,8 +3,9 @@ layout: post
 codemirror: true
 microblog: true
 title: HW Summation
-description: Learn about arrays in JavaScript, including how to create, access, and manipulate them.
+description: Full HW Summation
 permalink: /js/hw-summation
 author: sujay
 --- 
 
+[sujayr123.github.io/Portfolio/dih](sujayr123.github.io/Portfolio/js/dih)
