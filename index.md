@@ -45,7 +45,7 @@ Hi! My name is [Your Full Name]
         </div>
     </a>
 
-    <a href="https://sujayr123.github.io/Portfolio/js/accomp" style="text-decoration: none;">
+    <a href="https://sujayr123.github.io/Portfolio/js/hw-summation" style="text-decoration: none;">
         <div style="background-color: #0000FF; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             HW Summation
         </div>
