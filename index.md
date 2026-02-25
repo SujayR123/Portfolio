@@ -33,14 +33,33 @@ Hi! My name is [Your Full Name]
 > Here is my progress through coding, click to see these online
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
+    <a href="https://github.com/SujayR123" style="text-decoration: none;">
         <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Snake Game
+            Git Repo
         </div>
     </a>
-    <a href="{{site.baseurl}}/turtle" style="text-decoration: none;">
+
+    <a href="https://sujayr123.github.io/student/about/" style="text-decoration: none;">
         <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle
+            About
+        </div>
+    </a>
+
+    <a href="https://sujayr123.github.io/Portfolio/js/accomp" style="text-decoration: none;">
+        <div style="background-color: #0000FF; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            HW Summation
+        </div>
+    </a>
+
+    <a href="https://sujayr123.github.io/Portfolio/js/n@tm" style="text-decoration: none;">
+        <div style="background-color: #FFA500; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            N@TM Summary
+        </div>
+    </a>
+
+    <a href="https://sujayr123.github.io/Portfolio/js/accomp" style="text-decoration: none;">
+        <div style="background-color: #800080; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Key Accomplishments
         </div>
     </a>
 </div>
